@@ -30,7 +30,7 @@ arr = []
 
 while file_count < len(f):
     #updates the variables
-    path, dirs, files = next(os.walk("/home/pi/mnt/gdrive/Extra/Photos/SONY-PICS/2020/9. Septiembre 2020"))
+    path, dirs, files = next(os.walk("/home/pi/file_receiver"))
     #sleeps for a second to not take constant resources, number of seconds can be greater but the time it send
     #the file will become less accurate
     time.sleep(1)
