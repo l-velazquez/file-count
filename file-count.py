@@ -1,3 +1,13 @@
+#=======================================================================
+#       Programmer: Luis F. Velázquez Sosa
+#       GitHub: luisfernandojaviervelazquez
+#       
+#       Discription: Program will look at the recieving directory 
+#       and see how many files have been sent and also tell you how
+#       many files are left and the estimate time left in seconds
+#
+
+
 import os
 import time
 import statistics 
@@ -18,7 +28,7 @@ start = time.time()
 #this is to save the time it takes to send the file and then finds the average to have a approx. time left
 arr = []
 
-while True:
+while file_count < len(f):
     #updates the variables
     path, dirs, files = next(os.walk("/home/pi/mnt/gdrive/Extra/Photos/SONY-PICS/2020/9. Septiembre 2020"))
     #sleeps for a second to not take constant resources, number of seconds can be greater but the time it send
