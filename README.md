@@ -37,5 +37,5 @@ How to configure the code:
 - The raspberry pi I used is the Raspberry Pi 3B v1.2 2015
 	
 - Hopfully this script has worked any suggestions or comments you can 
-	email me at luisfernandojavier.velazquez@gmai.com
+	email me at luisfernandojavier.velazquez@upr.edu
 
