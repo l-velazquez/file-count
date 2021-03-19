@@ -1,4 +1,4 @@
-#File Count
+# File Count
 
 Programer: Luis F. Velazquez Sosa
 Program name: file-count.py
