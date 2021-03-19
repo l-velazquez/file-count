@@ -26,8 +26,9 @@ How to configure the code:
 	
 - To run this program you need to go to where you downloaded the code
 	in the terminal. Here you will run:
-	
- ~$ python3.7 file-count.py
+'''sh	
+~$ python3.7 file-count.py
+'''
 	
 - Note I used python3.7 because in my machine default python is python 2
 	
