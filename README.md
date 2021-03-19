@@ -19,22 +19,22 @@ automaticly once the amount of files are equal in both directories.
 
 How to configure the code:
 
-	- Since there isnt a grafical interface yet you will have to enter
+- Since there isnt a grafical interface yet you will have to enter
 	the directory path for the recieving end and the sending directory
 	
-	- Read the commented code in the file-count.py to know what is what
+- Read the commented code in the file-count.py to know what is what
 	
-	- To run this program you need to go to where you downloaded the code
+- To run this program you need to go to where you downloaded the code
 	in the terminal. Here you will run:
 	
-	   ~$ python3.7 file-count.py
+ ~$ python3.7 file-count.py
 	
-	- Note I used python3.7 because in my machine default python is python 2
+- Note I used python3.7 because in my machine default python is python 2
 	
-	- This program only works will python 3+
+- This program only works will python 3+
 	
-	- The raspberry pi I used is the Raspberry Pi 3B v1.2 2015
+- The raspberry pi I used is the Raspberry Pi 3B v1.2 2015
 	
-	- Hopfully this script has worked any suggestions or comments you can 
+- Hopfully this script has worked any suggestions or comments you can 
 	email me at luisfernandojavier.velazquez@gmai.com
 
